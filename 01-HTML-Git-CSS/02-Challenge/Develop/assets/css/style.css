@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    color: #ffffff;
+    background-color:#2a607c
 }
 
 .header {
@@ -24,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -69,7 +70,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -183,7 +184,7 @@ p {
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
